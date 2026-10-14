@@ -1,1 +1,1 @@
-![jerry](images/bd.jpg "A birthday card")
+![jerry](Images/bd.jpg "A birthday card")
